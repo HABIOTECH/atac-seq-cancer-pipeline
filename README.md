@@ -48,8 +48,13 @@ sbatch scripts/bash/03_macs2_homer.slurm
 6) R analysis
 Open scripts/R/ATACSEQ_analysis.R and update sample_sheet_example.tsv if needed.
 
-## Figures
-See docs/figures for the colorful project overview and pipeline figures used in docs.
+### Pipeline
+
+![Pipeline](docs/figures/pipeline_figure.png)
+
+### Project overview
+
+![Project overview](docs/figures/overview_figure.png)
 
 ## Citation
 - Pierce SE et al. High-throughput single-cell chromatin accessibility CRISPR screens enable unbiased identification of regulatory networks in cancer. Nat Commun. 2021;12:2969.
