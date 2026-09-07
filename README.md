@@ -7,11 +7,6 @@ Pooled, droplet-based single-cell CRISPR ATAC-seq re-analysis using publicly ava
 
 Data source: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA714243
 
-## Authors
-
-Hesham M. Abdullah, Ph.D. — sole author of this repository.
-[ceo@horizon-sci-comm.us](mailto:ceo@horizon-sci-comm.us)
-
 # 👥 Research Team
 Bioinformatics team - Horizon Science Communication LLC
 https://www.horizon-sci-comm.us/bioinformatics-services
